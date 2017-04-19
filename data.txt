@@ -1,4 +1,6 @@
-asdf
-sadsa
-fghdf
-asdas
+Este archivo debe contener los datos separados por linea (borrar esto para usarlo)
+asdsa
+fdsfgfd
+wert
+gdfg
+
